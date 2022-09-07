@@ -30,6 +30,7 @@ This project is about creating a mobile view of my personal portifolio
 ## Author
 
 ### :MAN: Kaweesi Matia
+### Collaborator: Mudasir Sherwani
 
 -GitHub: @Kaweesi-Matia
 -Twitter:@kaweesimatia
