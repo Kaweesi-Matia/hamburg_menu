@@ -4,7 +4,7 @@ body {
   background: #e5e5e5;
 }
 
-.main-header {
+.main {
   display: flex;
   justify-content: space-between;
   padding-top: 28px;
@@ -548,7 +548,7 @@ textarea {
   .desktop-menu {
     display: flex;
     gap: 12px;
-    padding-right: 142px;
+    padding-right: 140px;
   }
 
   .card1-container,
